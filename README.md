@@ -14,7 +14,7 @@ This repository documents my progress, code, and notes while learning quantum co
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/qiskit-learning-journey.git](https://github.com/YOUR_USERNAME/qiskit-learning-journey.git)
+    git clone https://github.com/QuantumCoderVN/qiskit-learning-journey.git
     cd qiskit-learning-journey
     ```
 
